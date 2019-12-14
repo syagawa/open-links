@@ -1,0 +1,14 @@
+{
+  "name": "open-link-gi",
+  "version": "1.0.0",
+  "description": "Open link google image search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syagawa <syagawapp@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "open": "^7.0.0"
+  }
+}
